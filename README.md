@@ -1,4 +1,4 @@
 # BYLOV
-*- better yield through logic, optimization, and value*
+*Better Yield through Logic, Optimization and Value*
 
-Meeting user needs and using technology to intelligently improve workflows leads to great business.
+In other words, meeting *user needs* and using *technology* to intelligently *improve workflows* leads to *great business*.
