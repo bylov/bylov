@@ -1,6 +1,7 @@
-# BYLOV
+# B·Y·L·O·V
 
-## Focus on solving real problems
+*Focus on solving real problems*
+
 Through my experience in different companies, I have seen how the best results come from collaboration — listening to users, working with colleagues, and shaping solutions as a team. Technology and design are most powerful when they improve workflows and create lasting business value.
 
 ## About Me
